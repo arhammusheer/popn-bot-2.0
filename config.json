@@ -1,4 +1,5 @@
 {
-  "prefix": "popn",
-  "name": "popn bot"
+  "prefix": ">",
+  "name": "popn bot",
+  "server": "College in Quarantine"
 }
